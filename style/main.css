@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.first-section {
+    padding-top: 20px;
+}
+
+.first-section_bold-headear {
+    font-size: 50px;
+    color: rgb(36, 36, 36);
+}
+
+.first-section_light-hedear {
+    font-size: 30px;
+    font-weight: 400;
+    color: rgb(97, 96, 96);
+}
+
+.card-section {
+  padding: 30px 0;  
+}
+
+.card img {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+}
